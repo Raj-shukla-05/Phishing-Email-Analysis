@@ -1,0 +1,22 @@
+Received: from unknown (HELO mail.paypa1.com) [185.203.119.87]
+Date: Mon, 27 May 2025 11:22:33 +0530
+From: PayPal Support <support@paypa1.com>
+
+To: user@example.com
+Subject: Urgent: Your PayPal Account Has Been Limited
+
+Dear Customer,
+
+We have detected suspicious activity in your PayPal account and need you to verify your identity to avoid account suspension.
+
+Click the link below to restore access:
+https://paypal-security-update.com/login
+
+If you do not complete the verification within 24 hours, your account will be permanently suspended.
+
+Thank you for being a valued PayPal member.
+
+Sincerely,  
+PayPal Security Team
+
+© 2025 PayPal. All rights reserved.
